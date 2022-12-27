@@ -26,8 +26,8 @@ pip install -r requirements.txt
 source deactivate
 jupyter notebook
 ```
-to run jupyter notebook make sure you are in conda base environment.
-Dataset is also included in the repository.
+- To run jupyter notebook make sure you are in conda base environment.
+- Dataset is also included in the repository.
 
 
 Project Organization
