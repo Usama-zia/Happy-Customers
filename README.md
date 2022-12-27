@@ -16,7 +16,7 @@ conda install -c conda-forge nb_conda_kernels
 2- to create virtual environment and install requirements
 ```
 conda create --name happy-customers pip ipykernel
-source activate term-analysis
+source activate happy-customers
 git clone --recursive https://github.com/Usama-zia/Happy-Customers.git
 cd happy-customers
 pip install -r requirements.txt
