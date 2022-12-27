@@ -17,7 +17,7 @@ conda install -c conda-forge nb_conda_kernels
 ```
 conda create --name happy-customers pip ipykernel
 source activate happy-customers
-git clone --recursive https://github.com/Usama-zia/Happy-Customers.git
+git clone --recursive 'https://github.com/Usama-zia/Happy-Customers.git'
 cd happy-customers
 pip install -r requirements.txt
 ```
