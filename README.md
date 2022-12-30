@@ -18,7 +18,7 @@ conda install -c conda-forge nb_conda_kernels
 conda create --name happy-customers pip ipykernel
 source activate happy-customers
 git clone --recursive 'https://github.com/Usama-zia/Happy-Customers.git'
-cd happy-customers
+cd Happy-Customers
 pip install -r requirements.txt
 ```
 3- now use following commands to first deactivate environment and then open jupyter notebook
