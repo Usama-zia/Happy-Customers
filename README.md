@@ -2,6 +2,7 @@ Happy-Customers
 ==============================
 
 Analysis on customers reviews for a company in logistics and delivery, to identify if customers were happy or not.
+Please consult notebook (Data_analysis_v1.1.ipynb) for detailed description of project and Analysis.
 ## Installation Instructions
 
 go to anaconda prompt and type in following commands:
